@@ -1,17 +1,17 @@
 let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
-let sh = '5'
-let sn = '15'
-let ss = '30'
-let sp = '35'
-let sv = '65'
+let sh = 'Gratis'
+let sn = 'Gratis'
+let ss = 'Gratis'
+let sp = 'Gratis'
+let sv = 'Gratis'
 //premium
-let ph = '5'
-let pn = '20'
-let pp = '40'
-let pv = '50'
-let ppm = '70'
+let ph = 'Gratis'
+let pn = 'Gratis'
+let pp = 'Gratis'
+let pv = 'Gratis'
+let ppm = 'Gratis'
 let info = `
 ╭━━━━「 *SEWA* 」
 ┊⫹⫺ *Hemat:* _${sh}k/grup (1 minggu)_
@@ -34,11 +34,11 @@ let info = `
 • *Dana:* [${pdana}]
 
 –––––– *🐾 Kebijakan* ––––––
-🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja
+🗣️: Kak mau invite ke gc apa boleh?
+💬: Silahkan langsung aja
 
-🗣️: Scam ga nih kak?
-💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
+🗣️: Kak minta premium dong
+💬: PM langsung ke ownernya - gratis tidak dipungut biaya
 
 ▌│█║▌║▌║║▌║▌║█│▌
 `
