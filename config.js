@@ -53,7 +53,7 @@ global.psaweria = 'https://saweria.com/'
 /*============== NOMOR ==============*/
 global.nomorbot = '6283125737791'
 global.nomorown = '6281328185617'
-global.namebot = 'Yui - Chan'
+global.namebot = 'Ya Bot - Chan'
 global.nameown = 'B4ks0'
 
 
@@ -107,13 +107,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Yui - Chan 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 Ya Bot 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ya Bot ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ Yui - Chan '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By B4ks0`
-global.author = '                「 Yui - Chan  あ⁩ 」'
+global.author = '                「 Ya Bot  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -181,8 +181,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Yui - Chan'
-global.stickauth = `By ©LeonGanz`
+global.stickpack = 'YaBot'
+global.stickauth = `By ©Yabot`
 
 global.multiplier = 38 // The higher, The harder levelup
 
